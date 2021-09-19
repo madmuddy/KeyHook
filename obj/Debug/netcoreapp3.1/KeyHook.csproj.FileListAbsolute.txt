@@ -1,0 +1,9 @@
+C:\Users\Malik\source\repos\KeyHook\KeyHook\bin\Debug\netcoreapp3.1\KeyHook.deps.json
+C:\Users\Malik\source\repos\KeyHook\KeyHook\bin\Debug\netcoreapp3.1\KeyHook.dll
+C:\Users\Malik\source\repos\KeyHook\KeyHook\bin\Debug\netcoreapp3.1\KeyHook.pdb
+C:\Users\Malik\source\repos\KeyHook\KeyHook\obj\Debug\netcoreapp3.1\KeyHook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malik\source\repos\KeyHook\KeyHook\obj\Debug\netcoreapp3.1\KeyHook.AssemblyInfoInputs.cache
+C:\Users\Malik\source\repos\KeyHook\KeyHook\obj\Debug\netcoreapp3.1\KeyHook.AssemblyInfo.cs
+C:\Users\Malik\source\repos\KeyHook\KeyHook\obj\Debug\netcoreapp3.1\KeyHook.csproj.CoreCompileInputs.cache
+C:\Users\Malik\source\repos\KeyHook\KeyHook\obj\Debug\netcoreapp3.1\KeyHook.dll
+C:\Users\Malik\source\repos\KeyHook\KeyHook\obj\Debug\netcoreapp3.1\KeyHook.pdb
