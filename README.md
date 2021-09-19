@@ -3,5 +3,6 @@ Hook on Specific Process to Send Specific Keys Input to it, Whether the prcoess 
 
 # Usage
 - NameSpace : `using KeyHook;`
-- Method to Send Key Input to Process : `Hook.SendKey("notepad", 77);`, 77 is decimal value of "M".
+- Method to Send Key Input to Process : `Hook.SendKey("notepad", 77);`
+-  77 is decimal value of "M".
 
