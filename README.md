@@ -10,5 +10,5 @@ Method :
 `
 Hook.SendKey("notepad", 77);
 `
-\n 77 is decima value of "M".
+- 77 is decimal value of "M".
 
