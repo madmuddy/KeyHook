@@ -1,9 +1,0 @@
-C:\Users\Malik\source\repos\KeyPost\KeyPost\bin\Debug\netcoreapp2.0\KeyPost.deps.json
-C:\Users\Malik\source\repos\KeyPost\KeyPost\bin\Debug\netcoreapp2.0\KeyPost.dll
-C:\Users\Malik\source\repos\KeyPost\KeyPost\bin\Debug\netcoreapp2.0\KeyPost.pdb
-C:\Users\Malik\source\repos\KeyPost\KeyPost\obj\Debug\netcoreapp2.0\KeyPost.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Malik\source\repos\KeyPost\KeyPost\obj\Debug\netcoreapp2.0\KeyPost.AssemblyInfoInputs.cache
-C:\Users\Malik\source\repos\KeyPost\KeyPost\obj\Debug\netcoreapp2.0\KeyPost.AssemblyInfo.cs
-C:\Users\Malik\source\repos\KeyPost\KeyPost\obj\Debug\netcoreapp2.0\KeyPost.csproj.CoreCompileInputs.cache
-C:\Users\Malik\source\repos\KeyPost\KeyPost\obj\Debug\netcoreapp2.0\KeyPost.dll
-C:\Users\Malik\source\repos\KeyPost\KeyPost\obj\Debug\netcoreapp2.0\KeyPost.pdb
